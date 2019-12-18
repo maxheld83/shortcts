@@ -11,13 +11,14 @@ RStudio also maintains a [list of amazing cheat sheets](https://rstudio.com/reso
 
 PRs are very welcome.
 
+**For a bigger, open-source driven collection of shortcuts check out [Use The Keyboard](https://usethekeyboard.com).**
 
 ## Web Applications
 
 | Software | PDF | HTML | Command |
 |----------|-----|------|---------|
 | gmail.com | [shortcuts](https://makeawebsitehub.com/gmail-keyboard-shortcuts/) | [shortcuts](https://support.google.com/mail/answer/6594) | <kbd>?</kbd> |
-| github.com | | [shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts) | <kbd>?</kbd> |
+| github.com | | [shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts) | <kbd>?</kbd> |f
 | twitter.com |     | [shortcuts](https://help.twitter.com/en/using-twitter/how-to-tweet) | <kbd>?</kbd> |
 
 
